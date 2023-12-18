@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    jdbc-url: jdbc:mysql://localhost:3306/amigoscodedemo
+    username: root
+    password: my-secret-pw
+    pool-size: 30
+
